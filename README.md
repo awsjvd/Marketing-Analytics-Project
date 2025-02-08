@@ -1,26 +1,54 @@
-# 📊 Marketing Analysis Using SQL & Power BI  
+# Marketing Analytics Using SQL, Python & Power BI  
 
-## 📝 Project Overview  
-This project analyzes marketing data to derive business insights using SQL for data transformation and Power BI for visualization.  
+## Project Overview  
+This project analyzes ShopEasy's marketing data using SQL for data transformation, Python for Sentiment Analysis, and Power BI for visualization. The goal is to improve customer engagement and conversion rates by deriving key marketing insights.  
 
-## 🔧 Tech Stack  
-- SQL (Data Cleaning & Transformation)  
-- Power Query (Further Cleaning)  
-- Power BI (Dashboard & Insights)  
+## Tech Stack  
+- SQL Server (Data Cleaning and Transformation)  
+- Python (Sentiment Analysis)  
+- Power BI (Data Modeling and Dashboard Insights)  
 
-## 📌 Process  
-1. **Data Extraction & Transformation:** Used SQL to clean and prepare the data.  
-2. **Power BI Modeling:** Loaded transformed data, created relationships, and applied further cleaning in Power Query.  
-3. **Calculated Columns & Measures:** Built necessary DAX columns.  
-4. **Dashboard Creation:** Developed visualizations to showcase insights.  
+## Process  
+1. Data Extraction and Transformation  
+   - The dataset was available as an SQL dump and imported into SQL Server.  
+   - SQL queries were used to clean and structure the data.  
+   - Sentiment analysis was performed using Python, with results stored in SQL Server.  
 
-## 📊 Dashboard Preview  
-![Dashboard](PowerBI_Files/dashboard_screenshot.png)  
+2. Power BI Modeling  
+   - Data relationships were defined using a Star Schema model.  
+   - Fact and Dimension tables were linked using Primary and Foreign keys.  
 
-## 🚀 Insights  
-- **Insight 1**: (Mention key finding)  
-- **Insight 2**: (Mention key finding)  
+3. Dashboard Creation  
+   - Customer Engagement Dashboard tracks campaign performance and conversion rates.  
+   - Customer Sentiment Analysis Dashboard provides insights into positive and negative reviews.  
+   - Product Performance Dashboard highlights conversion rates per product.  
 
-## 🔗 How to Use  
-1. Open the `.pbix` file in Power BI  
-2. Run the SQL queries on the dataset  
+## Dashboard Preview  
+![Dashboard](Documentation/Dashboard_Screenshot.png)  
+
+## Insights  
+- Customer Engagement  
+  - January had the highest conversion rate (18 percent), indicating effective campaigns.  
+  - April and October had the lowest conversion rates, suggesting areas for improvement.  
+
+- Product Performance  
+  - High-performing products include Hockey Stick, Baseball Glove, and Cycling Helmet.  
+  - Low-performing products like Swim Goggles and Running Shoes need targeted marketing efforts.  
+
+- Sentiment Analysis  
+  - Majority of customer reviews are positive, but common negative themes include pricing concerns, delivery speed, and product durability.  
+  - Seasonal trends affect sentiment, with spikes in negative reviews during holidays.  
+
+## How to Use  
+1. Ensure Power BI Desktop is installed  
+2. Open the `.pbix` file in Power BI  
+3. Refresh the data connection if required  
+4. Interact with the dashboards to explore insights  
+
+## Additional Resources  
+[Download Full Power BI Report](sandbox:/mnt/data/Marketing_Analytics.pdf)  
+[Download ERD](sandbox:/mnt/data/ERD.JPG)  
+
+GitHub Repository: [GitHub Link]  
+
+This project provides actionable insights for improving marketing strategies. Let me know if you need any refinements.
