@@ -33,7 +33,7 @@ The data model follows a **Star Schema** structure:
 ![ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
 ## Dashboard Preview  
-![Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pdf)  
+[View Full Power BI Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pdf)  
 
 ## Insights  
 - **Customer Engagement**  
