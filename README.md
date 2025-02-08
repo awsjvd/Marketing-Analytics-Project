@@ -45,8 +45,7 @@ This project analyzes ShopEasy's marketing data using SQL for data transformatio
 3. Refresh the data connection if required  
 4. Interact with the dashboards to explore insights  
 
-## Additional Resources  
-- [View Full Power BI Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pdf)  
+## Additional Resources   
 - [Download ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
 ## GitHub Repository  
