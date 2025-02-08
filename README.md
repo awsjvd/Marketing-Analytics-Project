@@ -11,8 +11,8 @@ This project analyzes ShopEasy's marketing data using SQL for data transformatio
 ## Process  
 1. **Data Extraction and Transformation**  
    - The dataset was available as an SQL dump and imported into SQL Server.  
-   - SQL queries were used to clean and structure the data.  
-   - Sentiment analysis was performed using Python, with results stored in SQL Server.  
+   - SQL queries were used to clean and structure the data in the form of Fact and Dimension tables.  
+   - Sentiment analysis was performed using Python, with results stored back into SQL Server.  
 
 2. **Power BI Modeling**  
    - Data relationships were defined using a Star Schema model.  
@@ -22,6 +22,15 @@ This project analyzes ShopEasy's marketing data using SQL for data transformatio
    - Customer Engagement Dashboard tracks campaign performance and conversion rates.  
    - Customer Sentiment Analysis Dashboard provides insights into positive and negative reviews.  
    - Product Performance Dashboard highlights conversion rates per product.  
+
+## Data Model and ERD Diagram  
+The data model follows a **Star Schema** structure:  
+- **Fact Tables:** Store transactional and analytical data.  
+- **Dimension Tables:** Contain reference data used for analysis.  
+
+[View ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
+
+![ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
 ## Dashboard Preview  
 ![Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pdf)  
@@ -45,7 +54,7 @@ This project analyzes ShopEasy's marketing data using SQL for data transformatio
 3. Refresh the data connection if required  
 4. Interact with the dashboards to explore insights  
 
-## Additional Resources   
+## Additional Resources  
 - [Download ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
 ## GitHub Repository  
