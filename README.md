@@ -33,7 +33,7 @@ The data model follows a **Star Schema** structure:
 ![ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
 ## Dashboard Preview  
-(https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pdf)  
+![Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pdf)  
 
 ## Insights  
 - **Customer Engagement**  
@@ -52,7 +52,7 @@ The data model follows a **Star Schema** structure:
 1. Ensure Power BI Desktop is installed  
 2. Open the `.pbix` file in Power BI  
 3. Refresh the data connection if required  
-4. Interact with the dashboards to explore insights   
+4. Interact with the dashboards to explore insights  
 
 ## GitHub Repository  
 [Marketing Analytics Project Repository](https://github.com/awsjvd/Marketing-Analytics-Project)  
