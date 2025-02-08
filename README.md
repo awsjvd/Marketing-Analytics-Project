@@ -52,10 +52,7 @@ The data model follows a **Star Schema** structure:
 1. Ensure Power BI Desktop is installed  
 2. Open the `.pbix` file in Power BI  
 3. Refresh the data connection if required  
-4. Interact with the dashboards to explore insights  
-
-## Additional Resources  
-- [Download ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
+4. Interact with the dashboards to explore insights   
 
 ## GitHub Repository  
 [Marketing Analytics Project Repository](https://github.com/awsjvd/Marketing-Analytics-Project)  
