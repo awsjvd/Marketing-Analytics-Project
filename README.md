@@ -4,9 +4,9 @@
 This project analyzes ShopEasy's marketing data using SQL for data transformation, Python for Sentiment Analysis, and Power BI for visualization. The goal is to improve customer engagement and conversion rates by deriving key marketing insights.  
 
 ## Tech Stack  
-- SQL Server (Data Cleaning and Transformation)  
-- Python (Sentiment Analysis)  
-- Power BI (Data Modeling and Dashboard Insights)  
+- **SQL Server** (Data Cleaning and Transformation)  
+- **Python** (Sentiment Analysis)  
+- **Power BI** (Data Modeling and Dashboard Insights)  
 
 ## Process  
 1. **Data Extraction and Transformation**  
@@ -19,9 +19,9 @@ This project analyzes ShopEasy's marketing data using SQL for data transformatio
    - Fact and Dimension tables were linked using Primary and Foreign keys.  
 
 3. **Dashboard Creation**  
-   - Customer Engagement Dashboard tracks campaign performance and conversion rates.  
-   - Customer Sentiment Analysis Dashboard provides insights into positive and negative reviews.  
-   - Product Performance Dashboard highlights conversion rates per product.  
+   - **Customer Engagement Dashboard** tracks campaign performance and conversion rates.  
+   - **Customer Sentiment Analysis Dashboard** provides insights into positive and negative reviews.  
+   - **Product Performance Dashboard** highlights conversion rates per product.  
 
 ## Data Model and ERD Diagram  
 The data model follows a **Star Schema** structure:  
@@ -32,8 +32,21 @@ The data model follows a **Star Schema** structure:
 
 ![ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
-## Dashboard Preview  
-[View Power BI Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pdf)  
+## Dashboard Previews  
+### Customer Engagement Dashboard  
+![Customer Engagement Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Dashboards/Engagement_Dashboard.png)  
+
+### Sentiment Analysis Dashboard  
+![Sentiment Analysis Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Dashboards/Sentiment_Analysis.png)  
+
+### Product Performance Dashboard  
+![Product Performance Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Dashboards/Product_Performance.png)  
+
+## Live Power BI Dashboard  
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?reportId=your_report_id)  
+
+## Download Power BI Report  
+[Download `.pbix` File](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pbix)  
 
 ## Insights  
 - **Customer Engagement**  
@@ -57,4 +70,4 @@ The data model follows a **Star Schema** structure:
 ## GitHub Repository  
 [Marketing Analytics Project Repository](https://github.com/awsjvd/Marketing-Analytics-Project)  
 
-This project provides actionable insights for improving marketing strategies. Let me know if you need any refinements.
+This project provides actionable insights for improving marketing strategies. Let me know if you need any refinements. 🚀
