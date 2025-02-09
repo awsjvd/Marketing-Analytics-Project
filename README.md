@@ -21,7 +21,6 @@ This project analyzes ShopEasy's marketing data using SQL for data transformatio
 3. **Dashboard Creation**  
    - **Customer Engagement Dashboard** tracks campaign performance and conversion rates.  
    - **Customer Sentiment Analysis Dashboard** provides insights into positive and negative reviews.  
-   - **Product Performance Dashboard** highlights conversion rates per product.  
 
 ## Data Model and ERD Diagram  
 The data model follows a **Star Schema** structure:  
@@ -34,13 +33,10 @@ The data model follows a **Star Schema** structure:
 
 ## Dashboard Previews  
 ### Customer Engagement Dashboard  
-![Customer Engagement Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Dashboards/Engagement_Dashboard.png)  
+![Customer Engagement Dashboard](https://raw.githubusercontent.com/awsjvd/Marketing-Analytics-Project/main/Power%20BI/Customer_Engagement.JPG)  
 
-### Sentiment Analysis Dashboard  
-![Sentiment Analysis Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Dashboards/Sentiment_Analysis.png)  
-
-### Product Performance Dashboard  
-![Product Performance Dashboard](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Dashboards/Product_Performance.png)  
+### Customer Review Dashboard  
+![Customer Review Dashboard](https://raw.githubusercontent.com/awsjvd/Marketing-Analytics-Project/main/Power%20BI/Customer_Review.JPG)  
 
 ## Live Power BI Dashboard  
 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?reportId=your_report_id)  
