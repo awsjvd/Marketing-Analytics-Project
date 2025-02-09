@@ -38,12 +38,6 @@ The data model follows a **Star Schema** structure:
 ### Customer Review Dashboard  
 ![Customer Review Dashboard](https://raw.githubusercontent.com/awsjvd/Marketing-Analytics-Project/main/Power%20BI/Customer_Review.JPG)  
 
-## Live Power BI Dashboard  
-[View Interactive Power BI Dashboard](https://app.powerbi.com/view?reportId=your_report_id)  
-
-## Download Power BI Report  
-[Download `.pbix` File](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/Power%20BI/Marketing_Analytics.pbix)  
-
 ## Insights  
 - **Customer Engagement**  
   - January had the highest conversion rate (18 percent), indicating effective campaigns.  
