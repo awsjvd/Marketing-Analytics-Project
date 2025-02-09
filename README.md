@@ -57,7 +57,4 @@ The data model follows a **Star Schema** structure:
 3. Refresh the data connection if required  
 4. Interact with the dashboards to explore insights  
 
-## GitHub Repository  
-[Marketing Analytics Project Repository](https://github.com/awsjvd/Marketing-Analytics-Project)  
-
 This project provides actionable insights for improving marketing strategies. Let me know if you need any refinements. 🚀
