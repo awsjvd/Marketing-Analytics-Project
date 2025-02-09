@@ -57,7 +57,7 @@ on ca.JourneyID = cj.JourneyID;
 
 -- Query to create Fact_Customer_Journey Table -
 
-create table Customer_Journey_Fact
+create table Fact_Customer_Journey
 (journey_id INT,
  customer_id INT,
  product_id INT,
@@ -74,7 +74,7 @@ create table Customer_Journey_Fact
     FROM customer_journey
 )
 
-INSERT INTO Customer_Journey_Fact(journey_id, customer_id, product_id, stage,visit_date, action, duration)
+INSERT INTO Fact_Customer_Journey(journey_id, customer_id, product_id, stage,visit_date, action, duration)
 SELECT cj.JourneyID,
        cj.CustomerID,
        cj.ProductID,
