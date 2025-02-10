@@ -1,4 +1,4 @@
-# Marketing Data Analysis with SQL, Python, and Power B 
+# Marketing Data Analysis with SQL, Python, and Power BI
 
 ## Project Overview  
 This project analyzes ShopEasy's marketing data using SQL for data transformation, Python for Sentiment Analysis, and Power BI for visualization. The goal is to improve customer engagement and conversion rates by deriving key marketing insights.  
