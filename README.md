@@ -24,7 +24,7 @@ This project analyzes ShopEasy's marketing data using SQL for data transformatio
 
 ## Data Model and ERD Diagram  
 The data model follows a **Star Schema** structure:  
-- **Fact Tables:** Store transactional and analytical data.  
+- **Fact Tables:** Store transactional data.  
 - **Dimension Tables:** Contain reference data used for analysis.  
 
 
