@@ -27,7 +27,6 @@ The data model follows a **Star Schema** structure:
 - **Fact Tables:** Store transactional and analytical data.  
 - **Dimension Tables:** Contain reference data used for analysis.  
 
-[View ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
 ![ERD Diagram](https://github.com/awsjvd/Marketing-Analytics-Project/blob/main/ERD/ERD.JPG)  
 
