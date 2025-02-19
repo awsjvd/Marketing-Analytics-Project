@@ -7,10 +7,10 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 # nltk.download('vader_lexicon')
 
 def connect_SQL():
-    # Define connection parameters
-    server = r'DESKTOP-R5COA8O\SQLEXPRESS'  # Use raw string to handle backslashes
-    database = 'Marketing'
-    
+   # Define connection parameters
+   server = r'<YOUR_SERVER_NAME>'  # Replace with your server name
+   database = '<YOUR_DATABASE_NAME>'  # Replace with your database name
+      
     # Connection string for Windows Authentication
     connection_url = (
         f"mssql+pyodbc://@{server}/{database}"
